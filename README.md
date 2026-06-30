@@ -1,8 +1,8 @@
 # 🏓 Ping Pong Game
 
-A classic Pong game built in **C++** using the **Raylib** library. Play against a CPU opponent — first to 7 points wins!
+https://github.com/user-attachments/assets/beb32f70-3629-4e66-9b97-8b2aefe11b6a
 
-<!-- Demo video: drag & drop your .mp4 into this README while editing on GitHub to auto-upload it -->
+A classic Pong game built in **C++** using the **Raylib** library. Play against a CPU opponent — first to 7 points wins!
 
 ---
 
